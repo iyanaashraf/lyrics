@@ -1,0 +1,35 @@
+html {
+	background-color:#badffb;
+	font-family: "Verdana", Times, serif;
+	font-size: 13px;
+
+}
+
+.jumbotron {
+	text-align: center;
+	color:#ff009a;
+	text-shadow:5px 5px 5px black;
+	border-style:outset solid;
+	border-width:7px;
+
+}
+
+}
+
+
+.lyrics {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+
+}
+
+.video {
+	text-align: center;
+}
+
+.img {
+	text-align: center;
+}
